@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fap:home|Door43 (fap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fap|d43-fap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fap/archive/master.zip|d43-fap.zip]]
+
+**Recent Changes**
+{{changes>ns = fap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fap|Ethnologue data]]
+
